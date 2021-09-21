@@ -1,0 +1,36 @@
+html{
+    background: url(../img/logo.png);
+    background-size: cover;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+    }
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.5; 
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(5, 5, 0) 5px 5px 5px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0,5px  ;
+}
+
+.bloco a{
+    color: rgb(229, 245, 13);
+    font-weight: bold;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+.bloco a:hover{
+    color: rgb(235, 145, 11);
+    text-decoration: underline;
+}
+
+
